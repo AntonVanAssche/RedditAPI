@@ -50,8 +50,8 @@ To get a random post from the [`r/memes`](https://www.reddit.com/r/memes/) subre
 You can install te bot by entering the following commands in your terminal:
 
 ```bash
-$ git clone https://github.com/AntonVanAssche/srapi.git # Clone the repository
-$ cd srapi # Go to the directory
+$ git clone https://github.com/AntonVanAssche/RedditAPI.git # Clone the repository
+$ cd RedditAPI # Go to the directory
 $ pip3 install -r requirements.txt # Install dependencies
 ```
 
@@ -71,7 +71,7 @@ $ python src/main.py
 ```
 
 That's it!.
-If you encountered any issues while installing the API, feel free to [report them here](https://github.com/AntonVanAssche/srapi/issues/new).
+If you encountered any issues while installing the API, feel free to [report them here](https://github.com/AntonVanAssche/RedditAPI/issues/new).
 
 ## References
 
